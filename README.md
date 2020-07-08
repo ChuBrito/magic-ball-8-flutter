@@ -10,4 +10,4 @@ Using concept of StateLess and Stateful Widget.
 
 I made this as a challenge from course: https://www.udemy.com/course/flutter-bootcamp-with-dart
 
-Thank you reading!
+Thank you for reading!
